@@ -1,5 +1,5 @@
 ---
-title:  "explaining mongodb"
+title:  "Explaining mongodb"
 layout: post
 ---
 
