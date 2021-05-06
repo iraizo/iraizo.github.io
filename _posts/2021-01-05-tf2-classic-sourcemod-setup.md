@@ -126,4 +126,4 @@ Extract it, and move the `addons` folder to `tf2classic` and restart the server.
 
 <hr>
 
-##### Written by [linuxfur](https://twitter.com/linuxfur) \<3
+##### Written by [Zanthed](https://twitter.com/Zanthedd) \<3
